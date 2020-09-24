@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+}
+
+body {
+  height: 1200px;
+}
+
+#draw {
+  background-color: #eee;
+  background-image: url('../img/canvas.png');
+}
